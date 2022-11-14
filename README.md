@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CREE1116/CREE1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?text=welcome&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 :pencil2: studying :pencil2:
 - 
