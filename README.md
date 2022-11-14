@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?text=welcome&animation=fadeIn)
+
+:pencil2: studying :pencil2:
+- 
+<img src="https://img.shields.io/badge/java-#FC4C02?style=flat-square"/> 
+<img src="https://img.shields.io/badge/JavaScript -#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+:hammer: Tools :hammer:
+-
+    
+
