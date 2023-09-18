@@ -24,7 +24,7 @@ Hedgehogs are really cute too...
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCREE1116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 
 # :pencil2: studying :pencil2:
--  <img src="https://img.shields.io/badge/Java-FF7800?style=flat"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+-  <img src="https://img.shields.io/badge/Java-FF7800?style=flat"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cpp&logoColor=white"/>
         
 
 # :hammer: Tools :hammer:
