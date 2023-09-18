@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=000080&height=200&section=header&text=CREE's%20Github!&fontSize=90&fontColor=ffffff&animation=fadeIn)
 
-the cat is really cute...
 
-Hedgehogs are really cute too...
-
-##### All the fuzzy things look cute!!
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCREE1116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -32,3 +28,5 @@ Hedgehogs are really cute too...
 - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Eclipse IDE-C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>  <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/>  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
     
 
+
+[![CREE1116's GitHub stats](https://github-readme-stats.vercel.app/api?username=CREE1116)](https://github.com/CREE1116/github-readme-stats)
